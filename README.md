@@ -4,7 +4,7 @@ Would you have better chances of survival if you were a 20 year old female trave
 
 Let's try to answer these questions with the help of python tools and a few machine learning algorithms. 
 
-## Instal
+## Install
 This project requires python 3.6 or any other higher versions of python along with the following libraries installed:
 
 * Numpy
