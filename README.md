@@ -52,7 +52,3 @@ Training model | Accuracy
 -------------- | --------
 Linear Regression | 77.65%
 Neural Networks | 82.02%
-
-# Loss curve:
-
-![Loss curve](C:\Users\BATCOMP\Desktop\Loss_curve.png)
