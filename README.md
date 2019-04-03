@@ -8,7 +8,7 @@ Let's try to answer these questions with the help of python tools and a few mach
 This project requires python 3.6 or any other higher versions of python along with the following libraries installed:
 
 * Numpy
-* Padas
+* Pandas
 * matplotlib
 * scikit-learn
 
